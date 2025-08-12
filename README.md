@@ -30,7 +30,7 @@ This project consists of a FastAPI backend and a React frontend.
 
 5. **Run the FastAPI app:**
     ```bash
-    uvicorn main:app --reload
+    fastapi run --reload main.py 
     ```
 
 ## Frontend (React)
